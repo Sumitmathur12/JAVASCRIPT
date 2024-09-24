@@ -14,14 +14,15 @@
 
 //CREATE A TRAFFIC LIGHT SYSTEM THAT SHOWS WHAT TO DO BASED ON COLOR.
 
-let color = "red";
-//Traffic light colors 
-if(color == "red"){
-    console.log("stop")
-}
-if(color == "yellow"){
-    console.log("slow down")
-}
-if(color == "green"){
-    console.log("go")
-}
+// let color = "red";
+// //Traffic light colors 
+// if(color == "red"){
+//     console.log("stop")
+// }
+// if(color == "yellow"){
+//     console.log("slow down")
+// }
+// if(color == "green"){
+//     console.log("go")
+// }
+console.log("sumit")
